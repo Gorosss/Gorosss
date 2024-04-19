@@ -4,7 +4,7 @@ I'm Jon, a 22-year-old with a degree in Software Engineering. I am passionate ab
 
 ## Skills
 - 👨‍💻 JavaScript, PHP, Python, Java, etc...
-- ⚙️ React, Vite, Astro
+- ⚙️ React, Node, Astro
 - 👁️ CSS, Bootstrap, TailwindCSS
 - 💽 MySQL, SQL, Mongo
 + a lot more :D
