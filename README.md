@@ -1,5 +1,5 @@
 ## Hey! 👋
-I'm Jon, a 22-year-old with a degree in Software Engineering. I am passionate about ProgrammingWeb and Development, and I am from Spain
+I'm Jon, a 22-year-old with a degree in Software Engineering. I am passionate about ProgrammingWeb and Development.
 
 
 ## Skills
