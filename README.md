@@ -11,4 +11,4 @@ I'm Jon, a 22-year-old with a degree in Software Engineering. I am passionate ab
 
 ## My Webpage
 
-- [Jon Gorostegui's Portfolio](https://www.jgorostegui.software/)
+- [Jon Gorostegui's Portfolio](https://www.jgorostegui.engineer/)
